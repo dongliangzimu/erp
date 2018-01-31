@@ -12,7 +12,7 @@ import org.lxh.demo.vo.Person;
 public interface PersonDao {
 	
 	/**
-	 * 插入数据的操作，
+	 * 插入数据的操作，   
 	 * @param person 插入的是一个人员信息
 	 * @return 操作成功与否的提示
 	 * @throws Exception  如果有异常，则把异常抛出
